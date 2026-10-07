@@ -7,8 +7,105 @@ art for the *Alien* franchise.
 | Folder | Contents |
 |---|---|
 | `wallpapers/` | the rendered wallpapers (`wy-*.png`) |
+| `previews/` | small JPEG previews used by the gallery below |
 | `work/` | generator scripts and the cleaned-up logo data they read |
 | `images/1.webp` | the original photo of the logo that everything is traced from |
+
+## Gallery
+
+Click a preview to open the full 4K wallpaper.
+
+### Workstation logo styles
+
+<table>
+<tr>
+<td width="50%"><a href="wallpapers/wy-12f-type-ascii.png"><img src="previews/wy-12f-type-ascii.jpg" alt="Original characters in Consolas"></a><br><sub>Original characters in Consolas · <code>wy-12f-type-ascii</code></sub></td>
+<td width="50%"><a href="wallpapers/wy-12g-type-fine-ascii.png"><img src="previews/wy-12g-type-fine-ascii.jpg" alt="Fine ASCII"></a><br><sub>Fine ASCII · <code>wy-12g-type-fine-ascii</code></sub></td>
+</tr>
+<tr>
+<td width="50%"><a href="wallpapers/wy-12h-type-hex-stream.png"><img src="previews/wy-12h-type-hex-stream.jpg" alt="Hex stream"></a><br><sub>Hex stream · <code>wy-12h-type-hex-stream</code></sub></td>
+<td width="50%"><a href="wallpapers/wy-12i-type-katakana.png"><img src="previews/wy-12i-type-katakana.jpg" alt="Katakana"></a><br><sub>Katakana · <code>wy-12i-type-katakana</code></sub></td>
+</tr>
+<tr>
+<td width="50%"><a href="wallpapers/wy-12j-type-wordmark.png"><img src="previews/wy-12j-type-wordmark.jpg" alt="Wordmark"></a><br><sub>Wordmark · <code>wy-12j-type-wordmark</code></sub></td>
+<td width="50%"><a href="wallpapers/wy-12m-hybrid-hex-ascii.png"><img src="previews/wy-12m-hybrid-hex-ascii.jpg" alt="Hex-ASCII hybrid"></a><br><sub>Hex-ASCII hybrid · <code>wy-12m-hybrid-hex-ascii</code></sub></td>
+</tr>
+<tr>
+<td width="50%"><a href="wallpapers/wy-12n-hybrid-two-tone.png"><img src="previews/wy-12n-hybrid-two-tone.jpg" alt="Hybrid, two-tone"></a><br><sub>Hybrid, two-tone · <code>wy-12n-hybrid-two-tone</code></sub></td>
+<td width="50%"><a href="wallpapers/wy-12n1-pop-bright.png"><img src="previews/wy-12n1-pop-bright.jpg" alt="Pop: bright"></a><br><sub>Pop: bright · <code>wy-12n1-pop-bright</code></sub></td>
+</tr>
+<tr>
+<td width="50%"><a href="wallpapers/wy-12n2-pop-bold.png"><img src="previews/wy-12n2-pop-bold.jpg" alt="Pop: bold"></a><br><sub>Pop: bold · <code>wy-12n2-pop-bold</code></sub></td>
+<td width="50%"><a href="wallpapers/wy-12n3-pop-glow.png"><img src="previews/wy-12n3-pop-glow.jpg" alt="Pop: glow"></a><br><sub>Pop: glow · <code>wy-12n3-pop-glow</code></sub></td>
+</tr>
+<tr>
+<td width="50%"><a href="wallpapers/wy-12n4-pop-backlit.png"><img src="previews/wy-12n4-pop-backlit.jpg" alt="Pop: backlit"></a><br><sub>Pop: backlit · <code>wy-12n4-pop-backlit</code></sub></td>
+<td width="50%"><a href="wallpapers/wy-12n5-pop-sweep.png"><img src="previews/wy-12n5-pop-sweep.jpg" alt="Pop: sweep"></a><br><sub>Pop: sweep · <code>wy-12n5-pop-sweep</code></sub></td>
+</tr>
+<tr>
+<td width="50%"><a href="wallpapers/wy-12n6-pop-combo.png"><img src="previews/wy-12n6-pop-combo.jpg" alt="Pop: combo"></a><br><sub>Pop: combo · <code>wy-12n6-pop-combo</code></sub></td>
+<td width="50%"><a href="wallpapers/wy-12n7-bold-soft.png"><img src="previews/wy-12n7-bold-soft.jpg" alt="Bold, soft colours"></a><br><sub>Bold, soft colours · <code>wy-12n7-bold-soft</code></sub></td>
+</tr>
+<tr>
+<td width="50%"><a href="wallpapers/wy-12o-hex-stream-two-tone.png"><img src="previews/wy-12o-hex-stream-two-tone.jpg" alt="Hex stream, two-tone"></a><br><sub>Hex stream, two-tone · <code>wy-12o-hex-stream-two-tone</code></sub></td>
+<td width="50%"></td>
+</tr>
+</table>
+
+### Corporate set
+
+<table>
+<tr>
+<td width="50%"><a href="wallpapers/wy-11-corporate-survey.png"><img src="previews/wy-11-corporate-survey.jpg" alt="Survey"></a><br><sub>Survey · <code>wy-11-corporate-survey</code></sub></td>
+<td width="50%"><a href="wallpapers/wy-12-corporate-workstation.png"><img src="previews/wy-12-corporate-workstation.jpg" alt="Workstation"></a><br><sub>Workstation · <code>wy-12-corporate-workstation</code></sub></td>
+</tr>
+<tr>
+<td width="50%"><a href="wallpapers/wy-12b-workstation-green.png"><img src="previews/wy-12b-workstation-green.jpg" alt="Workstation, green logo"></a><br><sub>Workstation, green logo · <code>wy-12b-workstation-green</code></sub></td>
+<td width="50%"><a href="wallpapers/wy-12c-workstation-dot-logo.png"><img src="previews/wy-12c-workstation-dot-logo.jpg" alt="Workstation, dot logo"></a><br><sub>Workstation, dot logo · <code>wy-12c-workstation-dot-logo</code></sub></td>
+</tr>
+<tr>
+<td width="50%"><a href="wallpapers/wy-12d-workstation-dot-logo-colour.png"><img src="previews/wy-12d-workstation-dot-logo-colour.jpg" alt="Workstation, dot logo in colour"></a><br><sub>Workstation, dot logo in colour · <code>wy-12d-workstation-dot-logo-colour</code></sub></td>
+<td width="50%"><a href="wallpapers/wy-12e-workstation-dot-logo-bold.png"><img src="previews/wy-12e-workstation-dot-logo-bold.jpg" alt="Workstation, bold dot logo"></a><br><sub>Workstation, bold dot logo · <code>wy-12e-workstation-dot-logo-bold</code></sub></td>
+</tr>
+<tr>
+<td width="50%"><a href="wallpapers/wy-13-corporate-orbital.png"><img src="previews/wy-13-corporate-orbital.jpg" alt="Orbital"></a><br><sub>Orbital · <code>wy-13-corporate-orbital</code></sub></td>
+<td width="50%"><a href="wallpapers/wy-14-corporate-executive.png"><img src="previews/wy-14-corporate-executive.jpg" alt="Executive"></a><br><sub>Executive · <code>wy-14-corporate-executive</code></sub></td>
+</tr>
+</table>
+
+### 3D backgrounds
+
+<table>
+<tr>
+<td width="50%"><a href="wallpapers/wy-6-grid-corridor.png"><img src="previews/wy-6-grid-corridor.jpg" alt="Grid corridor"></a><br><sub>Grid corridor · <code>wy-6-grid-corridor</code></sub></td>
+<td width="50%"><a href="wallpapers/wy-7-grid-horizon.png"><img src="previews/wy-7-grid-horizon.jpg" alt="Grid horizon"></a><br><sub>Grid horizon · <code>wy-7-grid-horizon</code></sub></td>
+</tr>
+<tr>
+<td width="50%"><a href="wallpapers/wy-8-wireframe-terrain.png"><img src="previews/wy-8-wireframe-terrain.jpg" alt="Wireframe terrain"></a><br><sub>Wireframe terrain · <code>wy-8-wireframe-terrain</code></sub></td>
+<td width="50%"><a href="wallpapers/wy-9-planet-orbit.png"><img src="previews/wy-9-planet-orbit.jpg" alt="Planet orbit"></a><br><sub>Planet orbit · <code>wy-9-planet-orbit</code></sub></td>
+</tr>
+<tr>
+<td width="50%"><a href="wallpapers/wy-10-dot-grid.png"><img src="previews/wy-10-dot-grid.jpg" alt="Dot grid"></a><br><sub>Dot grid · <code>wy-10-dot-grid</code></sub></td>
+<td width="50%"></td>
+</tr>
+</table>
+
+### Gradient backgrounds
+
+<table>
+<tr>
+<td width="50%"><a href="wallpapers/wy-1-deep-space.png"><img src="previews/wy-1-deep-space.jpg" alt="Deep space"></a><br><sub>Deep space · <code>wy-1-deep-space</code></sub></td>
+<td width="50%"><a href="wallpapers/wy-2-crt-terminal.png"><img src="previews/wy-2-crt-terminal.jpg" alt="CRT terminal"></a><br><sub>CRT terminal · <code>wy-2-crt-terminal</code></sub></td>
+</tr>
+<tr>
+<td width="50%"><a href="wallpapers/wy-3-amber-haze.png"><img src="previews/wy-3-amber-haze.jpg" alt="Amber haze"></a><br><sub>Amber haze · <code>wy-3-amber-haze</code></sub></td>
+<td width="50%"><a href="wallpapers/wy-4-blueprint-grid.png"><img src="previews/wy-4-blueprint-grid.jpg" alt="Blueprint grid"></a><br><sub>Blueprint grid · <code>wy-4-blueprint-grid</code></sub></td>
+</tr>
+<tr>
+<td width="50%"><a href="wallpapers/wy-5-graphite-horizon.png"><img src="previews/wy-5-graphite-horizon.jpg" alt="Graphite horizon"></a><br><sub>Graphite horizon · <code>wy-5-graphite-horizon</code></sub></td>
+<td width="50%"><a href="wallpapers/weyland-yutani-wallpaper-4k.png"><img src="previews/weyland-yutani-wallpaper-4k.jpg" alt="Plain"></a><br><sub>Plain · <code>weyland-yutani-wallpaper-4k</code></sub></td>
+</tr>
+</table>
 
 ## Using a wallpaper
 
@@ -245,6 +342,17 @@ python work/render_logo.py   # 4. render the sharp logo and export layout.json
 ```
 
 After that, re-render whichever wallpapers you want.
+
+## Updating the gallery previews
+
+After re-rendering or adding wallpapers, regenerate the previews:
+
+```bash
+python work/previews.py
+```
+
+This writes an 800×450 JPEG to `previews/` for every PNG in `wallpapers/`.
+New wallpapers also need adding to the Gallery section above by hand.
 
 ## Licence
 
